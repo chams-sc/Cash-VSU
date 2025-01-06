@@ -3,7 +3,7 @@
 ### Overview
 Cash-VSU is a fee tracking and payment management system inspired by Cavite State University (CvSU). It was conceptualized during the COVID-19 pandemic to address the challenges of in-person transactions. While actual online payment functionality is not implemented, the system provides a user-friendly interface for students to track and manage their fees, while also offering an admin dashboard for school operators to oversee the fee management process.
 
-[![Watch the Trailer](https://img.youtube.com/vi/7zxas7c3caM/0.jpg)](https://www.youtube.com/watch?v=7zxas7c3caM)
+[![System Demo](https://img.youtube.com/vi/Tcs18evW2k0/0.jpg)](https://www.youtube.com/watch?v=Tcs18evW2k0)
 ---
 
 ### Features
@@ -18,14 +18,14 @@ Cash-VSU is a fee tracking and payment management system inspired by Cavite Stat
 - **Admin Functionalities:**
   - **Admin Access:** Dedicated admin login for managing student accounts and fees.
   - **Add Fees:** Add and manage fee records.
-  - **Pending Payments:** View and handle pending payment requests.
-  - **Student Records:** Access and update student information.
+  - **Pending Payments:** View pending payment requests.
+  - **Student Records:** Access student information.
   - **Confirm Transactions:** Validate and confirm payments.
   - **Transaction History:** View transaction logs for all students.
 
 ---
 
-### User Guide
+### Usage Guide
 For detailed instructions on how to use the system and its features, refer to the following resources:
 - [Cash-VSU Manual](./Cash-VSU%20Manual%20(Final).pdf)  
 - [Cash-VSU Presentation](./Cash-VSU%20presentation.pptx)
